@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "echo 'build'",
+    "deploy": "echo 'deploy was completed or not'",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
